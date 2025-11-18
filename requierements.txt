@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-community
+langchain-openai
+langchain-tavily
+dotenv
+streamlit
+reportlab
